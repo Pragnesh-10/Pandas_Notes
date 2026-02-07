@@ -1,149 +1,149 @@
-Student_ID,Age,Gender,Class,Study_Hours_Per_Day,Attendance_Percentage,Parental_Education,Internet_Access,Extracurricular_Activities,Math_Score,Science_Score,English_Score,Previous_Year_Score,Final_Percentage,Performance_Level,Pass_Fail
-S0001,15,Male,12,1.0,65,Postgraduate,No,No,40,,72,81,50.33,Average,Pass
-S0002,19,Female,9,,58,Graduate,No,Yes,80,44,35,47,53.0,Average,Pass
-S0003,14,Female,12,3.6,,High School,Yes,Yes,83,73,59,58,71.67,Good,Pass
-S0004,18,Female,9,5.5,68,Postgraduate,Yes,No,68,,77,54,64.33,Average,Pass
-S0005,14,Male,10,5.0,80,High School,Yes,No,41,46,36,68,41.0,Poor,Fail
-S0006,19,Male,12,5.2,82,High School,No,Yes,88,70,46,60,68.0,Good,Pass
-S0007,16,Male,12,,78,High School,No,No,75,69,64,84,69.33,Good,Pass
-S0008,18,Female,11,2.0,81,Graduate,No,Yes,93,37,48,55,59.33,Average,Pass
-S0009,18,Female,11,3.5,61,Graduate,No,No,55,39,,71,59.0,Average,Pass
-S0010,18,Male,10,5.7,97,High School,Yes,No,,73,73,61,72.67,Good,Pass
-S0011,14,Female,9,3.6,88,Graduate,Yes,No,95,,69,41,83.0,Excellent,Pass
-S0012,18,Female,9,5.7,74,Postgraduate,Yes,No,54,38,59,81,50.33,Average,Pass
-S0013,19,Male,10,1.5,64,Postgraduate,Yes,Yes,35,95,,85,55.67,Average,Pass
-S0014,17,Female,10,5.5,76,Postgraduate,No,Yes,79,82,100,71,,Excellent,Pass
-S0015,15,Female,10,4.2,60,Postgraduate,No,Yes,55,,80,72,64.0,Average,Pass
-S0016,17,Male,12,5.0,67,Postgraduate,No,No,68,40,81,72,63.0,Average,Pass
-S0017,16,Male,10,4.0,66,Graduate,No,Yes,49,59,96,63,68.0,Good,Pass
-S0018,14,Female,9,5.0,89,High School,No,Yes,71,40,59,82,,Average,Pass
-S0019,14,Female,12,1.9,100,,No,No,45,85,74,61,68.0,Good,Pass
-S0020,19,Male,11,3.6,66,High School,Yes,Yes,75,,59,78,70.67,Good,Pass
-S0021,15,Female,10,4.7,65,High School,No,Yes,46,80,70,46,65.33,Average,Pass
-S0022,15,Male,12,2.8,,Postgraduate,No,Yes,100,96,99,86,98.33,Excellent,Pass
-S0023,19,Female,12,5.3,72,Postgraduate,No,No,72,40,63,76,58.33,Average,Pass
-S0024,14,Female,10,4.6,54,High School,Yes,No,58,37,79,94,58.0,Average,Pass
-S0025,17,Male,10,0.9,98,Postgraduate,Yes,No,,53,38,48,50.67,Average,Pass
-S0026,19,Female,9,5.1,78,Graduate,No,No,68,80,69,43,72.33,Good,Pass
-S0027,19,Female,12,2.0,75,High School,No,No,56,79,52,94,62.33,Average,Pass
-S0028,14,Male,12,0.9,91,Graduate,No,Yes,57,51,35,52,47.67,Poor,Fail
-S0029,19,Female,12,4.3,87,Graduate,No,No,61,91,49,49,67.0,Good,Pass
-S0030,16,Female,11,3.5,69,Graduate,Yes,Yes,81,68,,57,63.67,Average,Pass
-S0031,18,Female,9,1.8,85,Graduate,Yes,Yes,64,58,93,93,71.67,Good,Pass
-S0032,17,Male,12,1.1,78,High School,No,No,47,81,87,52,71.67,Good,Pass
-S0033,17,Male,10,1.4,58,High School,No,Yes,54,49,75,66,59.33,Average,Pass
-S0034,17,Female,11,3.0,94,Graduate,No,No,56,51,45,61,50.67,Average,Pass
-S0035,15,Female,12,2.3,79,Graduate,No,Yes,97,95,53,93,81.67,Excellent,Pass
-S0036,18,Female,10,3.4,87,High School,No,No,95,86,35,68,72.0,Good,Pass
-S0037,18,Female,10,3.9,54,Graduate,No,Yes,82,100,71,50,84.33,Excellent,Pass
-S0038,18,Male,11,1.2,63,High School,Yes,Yes,65,56,73,89,64.67,Average,Pass
-S0039,16,Male,11,1.7,97,Postgraduate,Yes,Yes,75,64,94,94,77.67,Good,Pass
-S0040,17,Male,12,2.0,100,Graduate,Yes,Yes,68,38,88,59,64.67,Average,Pass
-S0041,16,Male,10,5.2,95,Graduate,Yes,No,56,84,57,57,65.67,Average,Pass
-S0042,19,Female,11,4.1,64,High School,No,Yes,62,82,95,78,79.67,Good,Pass
-S0043,18,Male,12,4.5,56,High School,Yes,Yes,60,70,52,86,60.67,Average,Pass
-S0044,16,Female,9,4.8,68,High School,Yes,Yes,37,76,98,44,70.33,Good,Pass
-S0045,14,Female,10,3.4,91,Graduate,No,No,36,100,76,,70.67,Good,Pass
-S0046,14,Male,9,1.9,55,High School,No,No,87,37,55,46,59.67,Average,Pass
-S0047,14,Male,10,2.6,96,Graduate,Yes,No,68,63,78,43,69.67,Good,Pass
-S0048,19,Male,12,0.8,80,Graduate,Yes,Yes,46,49,92,83,62.33,Average,Pass
-S0049,17,Male,12,1.0,63,High School,No,No,41,86,46,58,57.67,Average,Pass
-S0050,14,Female,11,2.8,95,High School,No,No,44,83,83,93,70.0,Good,Pass
-S0051,18,Male,11,1.3,69,,No,No,99,77,84,88,86.67,Excellent,Pass
-S0052,18,Female,11,5.3,63,Graduate,Yes,Yes,82,63,72,55,72.33,Good,Pass
-S0053,15,Male,11,4.7,76,High School,Yes,No,82,87,42,89,70.33,Good,Pass
-S0054,17,Female,11,1.5,92,High School,Yes,No,57,75,86,81,72.67,Good,Pass
-S0055,17,Female,11,5.3,80,Graduate,No,No,74,37,46,40,52.33,Average,Pass
-S0056,15,Female,12,4.2,75,Graduate,Yes,No,86,71,79,58,78.67,Good,Pass
-S0057,16,Female,12,3.9,97,Graduate,Yes,No,81,72,85,40,79.33,Good,Pass
-S0058,19,Male,9,3.0,64,Postgraduate,No,Yes,66,57,69,86,64.0,Average,Pass
-S0059,14,Male,12,3.6,90,Graduate,No,Yes,67,82,100,86,83.0,Excellent,Pass
-S0060,17,Female,10,3.5,51,Postgraduate,Yes,Yes,68,74,81,68,74.33,Good,Pass
-S0061,14,Male,9,4.0,82,Postgraduate,No,Yes,65,83,53,95,67.0,Good,Pass
-S0062,17,Female,10,1.8,99,Postgraduate,No,No,78,35,91,65,68.0,Good,Pass
-S0063,19,Female,11,1.9,66,High School,No,No,95,82,89,52,88.67,Excellent,Pass
-S0064,19,Female,12,1.9,56,Graduate,Yes,No,75,40,40,86,51.67,Average,Pass
-S0065,19,Male,12,3.6,84,Graduate,Yes,No,85,71,53,95,69.67,Good,Pass
-S0066,14,Female,10,2.7,55,High School,Yes,No,67,60,84,65,70.33,Good,Pass
-S0067,14,Female,10,4.4,71,Postgraduate,Yes,No,64,47,66,54,59.0,Average,Pass
-S0068,17,Male,10,5.4,96,Postgraduate,No,Yes,43,86,65,81,64.67,Average,Pass
-S0069,17,Male,10,3.4,77,High School,No,No,35,77,97,83,69.67,Good,Pass
-S0070,16,Female,9,5.8,91,Graduate,Yes,,93,93,41,76,75.67,Good,Pass
-S0071,14,Female,10,1.5,50,Postgraduate,No,No,90,81,48,80,73.0,Good,Pass
-S0072,14,Male,12,3.6,58,Postgraduate,No,Yes,71,96,67,49,78.0,Good,Pass
-S0073,17,Female,11,1.8,76,High School,No,Yes,60,49,83,79,64.0,Average,Pass
-S0074,15,Female,11,2.9,57,Postgraduate,No,No,85,71,67,78,74.33,Good,Pass
-S0075,18,Male,9,5.7,84,Graduate,Yes,Yes,56,85,75,65,72.0,Good,Pass
-S0076,17,Female,12,2.2,67,Postgraduate,No,Yes,78,49,88,46,71.67,Good,Pass
-S0077,14,Male,12,1.3,50,High School,No,No,47,62,65,94,58.0,Average,Pass
-S0078,14,Female,10,2.1,57,High School,No,No,48,77,89,45,71.33,Good,Pass
-S0079,16,Male,11,1.9,91,High School,No,No,52,99,44,44,65.0,Average,Pass
-S0080,18,Female,11,1.3,87,Graduate,No,Yes,38,97,75,86,70.0,Good,Pass
-S0081,16,Female,10,4.5,68,Postgraduate,Yes,No,81,76,62,90,73.0,Good,Pass
-S0082,14,Female,9,2.4,82,Graduate,Yes,Yes,73,59,93,81,75.0,Good,Pass
-S0083,14,Male,12,2.3,98,High School,No,Yes,45,,38,41,40.33,Poor,Fail
-S0084,14,Male,11,3.4,60,Postgraduate,Yes,Yes,36,100,90,45,75.33,Good,Pass
-S0085,15,Female,9,5.7,92,Postgraduate,No,No,56,39,46,48,47.0,Poor,Fail
-S0086,17,Female,10,5.6,68,Graduate,No,No,100,66,94,46,86.67,Excellent,Pass
-S0087,17,Female,12,3.1,60,Graduate,Yes,No,71,74,42,61,62.33,Average,Pass
-S0088,19,Female,11,2.6,60,High School,Yes,Yes,40,41,84,92,55.0,Average,Pass
-S0089,14,Female,10,3.5,93,High School,Yes,No,48,79,64,73,63.67,Average,Pass
-S0090,16,Female,11,,55,High School,Yes,No,57,35,75,56,55.67,Average,Pass
-S0091,18,Male,12,4.2,83,High School,Yes,No,63,41,53,43,52.33,Average,Pass
-S0092,19,Male,11,2.9,54,High School,Yes,No,42,61,48,59,50.33,Average,Pass
-S0093,18,Female,11,4.3,50,High School,Yes,No,61,51,70,71,60.67,Average,Pass
-S0094,18,Female,9,4.1,50,High School,Yes,Yes,99,70,39,83,69.33,Good,Pass
-S0095,19,Female,10,3.9,76,Postgraduate,No,Yes,95,79,83,51,85.67,Excellent,Pass
-S0096,19,Female,12,2.3,73,Graduate,No,No,50,47,61,44,52.67,Average,Pass
-S0097,19,Female,11,0.5,75,Postgraduate,No,No,50,98,68,88,72.0,Good,Pass
-S0098,14,Female,12,2.3,,High School,No,Yes,60,49,36,84,48.33,Poor,Fail
-S0099,15,Male,9,1.9,52,High School,No,Yes,85,78,55,94,72.67,Good,Pass
-S0100,14,Male,12,5.8,84,Postgraduate,No,No,46,77,76,54,66.33,Good,Pass
-S0101,17,Female,11,3.9,70,High School,Yes,Yes,76,76,79,44,77.0,Good,Pass
-S0102,18,Female,9,5.3,92,Graduate,No,Yes,91,37,78,77,68.67,Good,Pass
-S0103,17,Female,9,5.1,90,Graduate,No,No,71,92,36,67,66.33,Good,Pass
-S0104,14,Male,12,1.9,89,Graduate,Yes,Yes,80,77,81,41,79.33,Good,Pass
-S0105,14,Male,9,5.3,61,High School,Yes,No,97,36,57,95,63.33,Average,Pass
-S0106,15,Female,12,3.5,72,Postgraduate,Yes,Yes,77,73,65,88,71.67,Good,Pass
-S0107,15,Female,11,2.2,67,Graduate,No,No,93,67,47,87,69.0,Good,Pass
-S0108,16,Female,12,0.7,57,High School,No,Yes,75,59,54,58,62.67,Average,Pass
-S0109,18,Male,10,0.9,76,High School,No,Yes,49,44,93,78,62.0,Average,Pass
-S0110,16,Female,12,4.8,79,Postgraduate,No,Yes,86,88,96,75,90.0,Excellent,Pass
-S0111,17,Female,12,3.2,88,Postgraduate,Yes,No,70,40,47,87,52.33,Average,Pass
-S0112,15,Female,10,4.5,74,Graduate,No,No,72,100,87,55,86.33,Excellent,Pass
-S0113,15,Female,10,2.6,66,Graduate,Yes,No,65,56,49,62,56.67,Average,Pass
-S0114,16,Male,10,3.7,51,Postgraduate,No,No,47,77,52,82,58.67,Average,Pass
-S0115,18,Female,10,5.9,55,Postgraduate,Yes,Yes,91,43,91,95,75.0,Good,Pass
-S0116,19,Female,12,0.8,68,Graduate,No,Yes,55,96,75,51,75.33,Good,Pass
-S0117,14,Male,9,3.4,77,Graduate,No,Yes,87,61,47,66,65.0,Average,Pass
-S0118,19,Female,11,4.3,77,High School,No,Yes,69,68,98,57,78.33,Good,Pass
-S0119,15,Female,10,5.1,76,High School,No,Yes,94,69,74,85,79.0,Good,Pass
-S0120,18,Male,12,4.5,55,Graduate,Yes,No,46,45,39,59,43.33,Poor,Fail
-S0121,18,Male,9,5.6,66,Postgraduate,No,No,43,85,92,77,73.33,Good,Pass
-S0122,18,Male,9,0.6,99,Graduate,No,No,90,85,75,72,83.33,Excellent,Pass
-S0123,19,Female,10,5.6,68,Graduate,No,Yes,96,65,69,46,76.67,Good,Pass
-S0124,19,Male,10,4.1,94,High School,No,Yes,36,82,59,77,59.0,Average,Pass
-S0125,14,Male,12,5.0,72,Graduate,No,No,59,42,68,72,56.33,Average,Pass
-S0126,17,Female,9,2.3,66,Graduate,No,Yes,45,89,71,75,68.33,Good,Pass
-S0127,15,Male,11,2.5,63,High School,No,No,49,40,100,92,63.0,Average,Pass
-S0128,17,Male,11,4.9,61,Postgraduate,No,Yes,70,41,96,51,69.0,Good,Pass
-S0129,19,Female,10,1.7,74,Postgraduate,Yes,No,83,89,100,73,90.67,Excellent,Pass
-S0130,19,Female,9,2.5,85,Graduate,Yes,Yes,72,96,91,65,86.33,Excellent,Pass
-S0131,15,Male,11,0.8,75,Postgraduate,No,Yes,71,99,57,69,75.67,Good,Pass
-S0132,19,Male,9,1.7,100,Graduate,Yes,Yes,89,50,85,83,74.67,Good,Pass
-S0133,18,Female,10,1.2,84,Postgraduate,Yes,Yes,47,93,93,82,77.67,Good,Pass
-S0134,14,Male,12,2.7,80,Postgraduate,No,No,59,49,74,84,60.67,Average,Pass
-S0135,15,Female,9,1.1,97,High School,Yes,Yes,72,78,92,75,80.67,Good,Pass
-S0136,19,Female,11,3.9,72,High School,Yes,Yes,79,49,59,78,62.33,Average,Pass
-S0137,19,Male,12,1.5,83,Graduate,Yes,No,81,93,73,62,82.33,Excellent,Pass
-S0138,16,Female,9,2.3,88,Postgraduate,No,Yes,94,71,83,90,82.67,Excellent,Pass
-S0139,17,Male,11,5.5,60,Postgraduate,Yes,No,81,84,97,45,87.33,Excellent,Pass
-S0140,14,Male,12,5.1,85,Graduate,Yes,No,56,90,86,53,77.33,Good,Pass
-S0141,15,Female,10,5.7,89,Graduate,No,Yes,96,52,59,45,69.0,Good,Pass
-S0142,16,Female,9,5.7,60,Postgraduate,No,No,97,77,41,89,71.67,Good,Pass
-S0143,15,Male,10,4.7,76,Postgraduate,Yes,No,80,52,70,50,67.33,Good,Pass
-S0144,14,Male,11,1.4,94,Graduate,No,Yes,46,65,82,82,64.33,Average,Pass
-S0145,19,Male,12,4.3,56,High School,No,Yes,83,99,97,57,93.0,Excellent,Pass
-S0146,19,Female,12,4.1,82,Graduate,Yes,No,51,48,44,88,47.67,Poor,Fail
-S0147,19,Male,11,1.4,54,Postgraduate,Yes,Yes,96,56,50,41,67.33,Good,Pass
-S0148,19,Female,11,5.3,91,Postgraduate,No,Yes,65,51,65,80,60.33,Average,Pass
+Student_ID,Age,Gender,Class,Attendance_Percentage,Math_Score,Science_Score,English_Score,Previous_Year_Score,Final_Percentage,Performance_Level,Pass_Fail
+S0001,15,Male,12,65.0,,,72.0,81.0,50.33,Average,Pass
+S0002,19,Female,9,58.0,80.0,44.0,35.0,47.0,53.0,Average,Pass
+S0003,14,Female,12,,83.0,73.0,59.0,58.0,71.67,Good,Pass
+S0004,18,Female,9,68.0,68.0,,77.0,54.0,64.33,Average,Pass
+S0005,14,Male,10,80.0,41.0,,36.0,68.0,41.0,Poor,Fail
+S0006,19,Male,12,82.0,88.0,70.0,,60.0,68.0,Good,Pass
+S0007,16,Male,12,,75.0,69.0,64.0,84.0,69.33,Good,Pass
+S0008,18,Female,11,81.0,93.0,37.0,48.0,,59.33,Average,Pass
+S0009,18,Female,11,61.0,55.0,39.0,,71.0,59.0,Average,Pass
+S0010,18,Male,10,97.0,,73.0,73.0,61.0,72.67,Good,Pass
+S0011,14,Female,9,,95.0,,69.0,41.0,83.0,Excellent,Pass
+S0012,18,Female,9,74.0,54.0,38.0,59.0,,50.33,Average,Pass
+S0013,19,Male,10,64.0,35.0,95.0,,85.0,55.67,Average,Pass
+S0014,17,Female,10,76.0,79.0,82.0,100.0,71.0,,Excellent,Pass
+S0015,15,Female,10,60.0,55.0,,,72.0,64.0,Average,Pass
+S0016,17,Male,12,67.0,68.0,,81.0,72.0,63.0,Average,Pass
+S0017,16,Male,10,66.0,,,96.0,63.0,68.0,Good,Pass
+S0018,14,Female,9,89.0,71.0,40.0,59.0,82.0,,Average,Pass
+S0019,14,Female,12,100.0,45.0,85.0,74.0,,68.0,Good,Pass
+S0020,19,Male,11,66.0,75.0,,59.0,78.0,70.67,Good,Pass
+S0021,15,Female,10,65.0,,80.0,70.0,46.0,65.33,Average,Pass
+S0022,15,Male,12,,100.0,96.0,99.0,,98.33,Excellent,Pass
+S0023,19,Female,12,72.0,72.0,40.0,63.0,76.0,58.33,Average,Pass
+S0024,14,Female,10,54.0,,37.0,79.0,94.0,58.0,Average,Pass
+S0025,17,Male,10,98.0,,53.0,38.0,,,Average,Pass
+S0026,19,Female,9,78.0,68.0,80.0,69.0,43.0,72.33,Good,Pass
+S0027,19,Female,12,75.0,56.0,79.0,,94.0,62.33,Average,Pass
+S0028,14,Male,12,91.0,57.0,51.0,35.0,52.0,47.67,Poor,Fail
+S0029,19,Female,12,87.0,61.0,91.0,,49.0,67.0,Good,Pass
+S0030,16,Female,11,,81.0,68.0,,57.0,63.67,Average,Pass
+S0031,18,Female,9,85.0,64.0,58.0,93.0,93.0,71.67,Good,Pass
+S0032,17,Male,12,78.0,47.0,81.0,87.0,52.0,71.67,Good,Pass
+S0033,17,Male,10,,54.0,49.0,,66.0,59.33,Average,Pass
+S0034,17,Female,11,94.0,56.0,51.0,45.0,61.0,50.67,Average,Pass
+S0035,15,Female,12,79.0,97.0,95.0,53.0,93.0,81.67,Excellent,Pass
+S0036,18,Female,10,87.0,95.0,86.0,35.0,68.0,72.0,Good,Pass
+S0037,18,Female,10,54.0,82.0,,71.0,,84.33,Excellent,Pass
+S0038,18,Male,11,,65.0,56.0,73.0,89.0,64.67,Average,Pass
+S0039,16,Male,11,97.0,75.0,,94.0,94.0,77.67,Good,Pass
+S0040,17,Male,12,100.0,68.0,,88.0,59.0,64.67,Average,Pass
+S0041,16,Male,10,95.0,56.0,84.0,57.0,57.0,65.67,Average,Pass
+S0042,19,Female,11,64.0,62.0,82.0,95.0,78.0,79.67,Good,Pass
+S0043,18,Male,12,,,70.0,,86.0,60.67,Average,Pass
+S0044,16,Female,9,68.0,37.0,,98.0,44.0,70.33,Good,Pass
+S0045,14,Female,10,91.0,36.0,100.0,76.0,,70.67,Good,Pass
+S0046,14,Male,9,55.0,87.0,37.0,55.0,46.0,59.67,Average,Pass
+S0047,14,Male,10,96.0,68.0,63.0,78.0,43.0,69.67,Good,Pass
+S0048,19,Male,12,80.0,46.0,49.0,92.0,83.0,62.33,Average,Pass
+S0049,17,Male,12,63.0,41.0,86.0,46.0,,57.67,Average,Pass
+S0050,14,Female,11,95.0,44.0,83.0,83.0,93.0,70.0,Good,Pass
+S0051,18,Male,11,69.0,99.0,77.0,84.0,88.0,86.67,Excellent,Pass
+S0052,18,Female,11,63.0,82.0,,72.0,55.0,72.33,Good,Pass
+S0053,15,Male,11,76.0,82.0,87.0,42.0,89.0,70.33,Good,Pass
+S0054,17,Female,11,92.0,,75.0,,81.0,72.67,Good,Pass
+S0055,17,Female,11,80.0,74.0,37.0,46.0,40.0,,Average,Pass
+S0056,15,Female,12,75.0,86.0,71.0,79.0,58.0,78.67,Good,Pass
+S0057,16,Female,12,,81.0,72.0,85.0,40.0,79.33,Good,Pass
+S0058,19,Male,9,64.0,,57.0,69.0,86.0,64.0,Average,Pass
+S0059,14,Male,12,,67.0,,100.0,,83.0,Excellent,Pass
+S0060,17,Female,10,51.0,68.0,74.0,81.0,68.0,74.33,Good,Pass
+S0061,14,Male,9,82.0,,,53.0,95.0,67.0,Good,Pass
+S0062,17,Female,10,99.0,78.0,35.0,91.0,65.0,68.0,Good,Pass
+S0063,19,Female,11,66.0,95.0,82.0,89.0,52.0,88.67,Excellent,Pass
+S0064,19,Female,12,56.0,75.0,40.0,40.0,86.0,51.67,Average,Pass
+S0065,19,Male,12,84.0,85.0,71.0,53.0,95.0,69.67,Good,Pass
+S0066,14,Female,10,55.0,67.0,60.0,84.0,65.0,70.33,Good,Pass
+S0067,14,Female,10,71.0,64.0,47.0,66.0,54.0,59.0,Average,Pass
+S0068,17,Male,10,96.0,43.0,86.0,65.0,81.0,64.67,Average,Pass
+S0069,17,Male,10,,35.0,77.0,97.0,83.0,69.67,Good,Pass
+S0070,16,Female,9,91.0,93.0,93.0,41.0,76.0,75.67,Good,Pass
+S0071,14,Female,10,50.0,90.0,81.0,,80.0,73.0,Good,Pass
+S0072,14,Male,12,58.0,71.0,96.0,,49.0,78.0,Good,Pass
+S0073,17,Female,11,,60.0,49.0,83.0,79.0,64.0,Average,Pass
+S0074,15,Female,11,57.0,85.0,,67.0,78.0,74.33,Good,Pass
+S0075,18,Male,9,84.0,,85.0,75.0,65.0,72.0,Good,Pass
+S0076,17,Female,12,67.0,78.0,,88.0,46.0,71.67,Good,Pass
+S0077,14,Male,12,50.0,47.0,,65.0,94.0,58.0,Average,Pass
+S0078,14,Female,10,,48.0,77.0,89.0,45.0,71.33,Good,Pass
+S0079,16,Male,11,91.0,52.0,,44.0,44.0,,Average,Pass
+S0080,18,Female,11,87.0,38.0,97.0,75.0,86.0,70.0,Good,Pass
+S0081,16,Female,10,68.0,81.0,76.0,62.0,,73.0,Good,Pass
+S0082,14,Female,9,82.0,73.0,,93.0,81.0,,Good,Pass
+S0083,14,Male,12,98.0,45.0,,38.0,41.0,40.33,Poor,Fail
+S0084,14,Male,11,,36.0,100.0,90.0,45.0,75.33,Good,Pass
+S0085,15,Female,9,92.0,56.0,39.0,,48.0,47.0,Poor,Fail
+S0086,17,Female,10,68.0,100.0,66.0,94.0,46.0,86.67,Excellent,Pass
+S0087,17,Female,12,60.0,71.0,74.0,42.0,61.0,62.33,Average,Pass
+S0088,19,Female,11,60.0,40.0,41.0,84.0,92.0,55.0,Average,Pass
+S0089,14,Female,10,93.0,48.0,79.0,64.0,73.0,63.67,Average,Pass
+S0090,16,Female,11,55.0,,35.0,75.0,56.0,55.67,Average,Pass
+S0091,18,Male,12,83.0,63.0,41.0,53.0,43.0,52.33,Average,Pass
+S0092,19,Male,11,54.0,42.0,61.0,48.0,59.0,50.33,Average,Pass
+S0093,18,Female,11,50.0,61.0,51.0,70.0,71.0,60.67,Average,Pass
+S0094,18,Female,9,50.0,99.0,70.0,39.0,83.0,69.33,Good,Pass
+S0095,19,Female,10,76.0,95.0,79.0,83.0,51.0,85.67,Excellent,Pass
+S0096,19,Female,12,73.0,50.0,47.0,61.0,44.0,52.67,Average,Pass
+S0097,19,Female,11,75.0,,98.0,68.0,88.0,72.0,Good,Pass
+S0098,14,Female,12,,60.0,49.0,36.0,84.0,48.33,Poor,Fail
+S0099,15,Male,9,,85.0,78.0,55.0,94.0,72.67,Good,Pass
+S0100,14,Male,12,84.0,46.0,77.0,76.0,54.0,66.33,Good,Pass
+S0101,17,Female,11,,76.0,76.0,79.0,44.0,,Good,Pass
+S0102,18,Female,9,92.0,91.0,37.0,78.0,77.0,68.67,Good,Pass
+S0103,17,Female,9,90.0,71.0,92.0,36.0,67.0,66.33,Good,Pass
+S0104,14,Male,12,89.0,80.0,77.0,81.0,41.0,79.33,Good,Pass
+S0105,14,Male,9,61.0,97.0,36.0,57.0,95.0,63.33,Average,Pass
+S0106,15,Female,12,72.0,77.0,73.0,65.0,88.0,71.67,Good,Pass
+S0107,15,Female,11,67.0,93.0,67.0,47.0,87.0,,Good,Pass
+S0108,16,Female,12,57.0,75.0,59.0,54.0,58.0,62.67,Average,Pass
+S0109,18,Male,10,76.0,49.0,44.0,93.0,78.0,62.0,Average,Pass
+S0110,16,Female,12,,86.0,88.0,96.0,,90.0,Excellent,Pass
+S0111,17,Female,12,88.0,70.0,40.0,47.0,87.0,,Average,Pass
+S0112,15,Female,10,74.0,,,87.0,55.0,86.33,Excellent,Pass
+S0113,15,Female,10,66.0,65.0,56.0,49.0,,56.67,Average,Pass
+S0114,16,Male,10,51.0,47.0,,,82.0,58.67,Average,Pass
+S0115,18,Female,10,55.0,91.0,43.0,91.0,95.0,75.0,Good,Pass
+S0116,19,Female,12,68.0,55.0,96.0,75.0,51.0,75.33,Good,Pass
+S0117,14,Male,9,77.0,87.0,61.0,47.0,66.0,,Average,Pass
+S0118,19,Female,11,77.0,69.0,68.0,98.0,57.0,78.33,Good,Pass
+S0119,15,Female,10,76.0,94.0,69.0,74.0,85.0,79.0,Good,Pass
+S0120,18,Male,12,55.0,46.0,45.0,,59.0,,Poor,Fail
+S0121,18,Male,9,66.0,43.0,85.0,92.0,77.0,73.33,Good,Pass
+S0122,18,Male,9,99.0,90.0,85.0,75.0,72.0,83.33,Excellent,Pass
+S0123,19,Female,10,68.0,96.0,65.0,69.0,46.0,76.67,Good,Pass
+S0124,19,Male,10,94.0,36.0,82.0,59.0,77.0,59.0,Average,Pass
+S0125,14,Male,12,72.0,59.0,42.0,68.0,72.0,56.33,Average,Pass
+S0126,17,Female,9,66.0,45.0,89.0,71.0,75.0,68.33,Good,Pass
+S0127,15,Male,11,63.0,49.0,,100.0,92.0,63.0,Average,Pass
+S0128,17,Male,11,61.0,70.0,41.0,96.0,51.0,69.0,Good,Pass
+S0129,19,Female,10,,83.0,,100.0,73.0,90.67,Excellent,Pass
+S0130,19,Female,9,85.0,72.0,96.0,91.0,65.0,86.33,Excellent,Pass
+S0131,15,Male,11,75.0,71.0,99.0,57.0,,75.67,Good,Pass
+S0132,19,Male,9,100.0,89.0,50.0,85.0,83.0,74.67,Good,Pass
+S0133,18,Female,10,84.0,47.0,93.0,93.0,82.0,77.67,Good,Pass
+S0134,14,Male,12,80.0,59.0,49.0,74.0,84.0,60.67,Average,Pass
+S0135,15,Female,9,97.0,72.0,78.0,92.0,75.0,,Good,Pass
+S0136,19,Female,11,72.0,,49.0,59.0,78.0,62.33,Average,Pass
+S0137,19,Male,12,83.0,81.0,93.0,73.0,62.0,82.33,Excellent,Pass
+S0138,16,Female,9,88.0,,71.0,83.0,90.0,82.67,Excellent,Pass
+S0139,17,Male,11,60.0,81.0,,97.0,45.0,,Excellent,Pass
+S0140,14,Male,12,85.0,56.0,90.0,86.0,53.0,77.33,Good,Pass
+S0141,15,Female,10,89.0,96.0,,59.0,45.0,69.0,Good,Pass
+S0142,16,Female,9,60.0,97.0,77.0,41.0,89.0,71.67,Good,Pass
+S0143,15,Male,10,76.0,,52.0,,50.0,,Good,Pass
+S0144,14,Male,11,94.0,,,82.0,82.0,64.33,Average,Pass
+S0145,19,Male,12,56.0,83.0,,97.0,57.0,93.0,Excellent,Pass
+S0146,19,Female,12,,51.0,48.0,44.0,88.0,47.67,Poor,Fail
+S0147,19,Male,11,54.0,96.0,56.0,50.0,41.0,67.33,Good,Pass
+S0148,19,Female,11,91.0,65.0,51.0,65.0,80.0,60.33,Average,Pass
