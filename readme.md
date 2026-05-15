@@ -1,4 +1,4 @@
-
+you can watch these two video at 1.25 playback speed if it feels lag
 
 <a href = "https://youtu.be/vtgDGrUiUKk?si=3uMfRwJtk9vtQgeo"> Pandas by intellipaat </a> (first video)
 <br>
